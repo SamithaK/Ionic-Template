@@ -1,0 +1,26 @@
+npm install node-sass --save
+
+npm install moment --save
+
+npm install @angular/http --save
+
+https://ionicframework.com/docs/native/android-permissions
+
+ionic cordova plugin add cordova-plugin-android-permissions
+npm install @ionic-native/android-permissions
+
+
+https://ionicframework.com/docs/native/sqlite
+ionic cordova plugin add cordova-sqlite-storage
+npm install @ionic-native/sqlite
+
+
+https://ionicframework.com/docs/native/sqlite-db-copy
+ionic cordova plugin add cordova-plugin-dbcopy
+npm install @ionic-native/sqlite-db-copy
+
+https://ionicframework.com/docs/native/sqlite-porter
+
+https://www.npmjs.com/package/@ngx-translate/core
+
+npm install @ngx-translate/http-loader --save
